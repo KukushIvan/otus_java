@@ -1,2 +1,2 @@
-# education_java
+# otus_java
 Проект для обучения
